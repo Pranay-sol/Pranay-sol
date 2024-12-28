@@ -3,9 +3,8 @@
 Hi, I'm Pranay Solanki and i'm a **Data and Actuarial Student** from Mumbai, India. I really enjoy the process of creating, testing and deploying models to solve problems of regression and prediction. 
 
 **Skills:**
-* **Programming Languages:** R, Python, MySQL, SQL Server
+* **Programming Languages:** R, Python, MySQL, SQL Server, VBA (Excel)
 * **Libraries and Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, Jupyter Notebook, Git
-* **Machine Learning:** Regression, Classification, Ensemble, PCA, ANN, CNN
 
 **Projects:**
 * **Digit Recognizer:** Developed a machine learning model using a Sequential Neural Network to accurately recognize handwritten digits from the MNIST dataset.
