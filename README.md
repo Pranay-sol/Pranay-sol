@@ -1,20 +1,13 @@
 # Pranay Solanki
 
-Hi, I'm Pranay Solanki and i'm a **Data and Actuarial Student** from Mumbai, India. I really enjoy the process of creating, testing and deploying models to solve problems of regression and prediction. 
+Hi, I'm Pranay Solanki, a **Data and Actuarial Science enthusiast** currently pursuing my Master's in Actuarial Science. Based in Mumbai, India, I'm deeply fascinated by the process of building, rigorously testing, and effectively building models to tackle problems.
 
 **Skills:**
 * **Programming Languages:** R, Python, MySQL, SQL Server, VBA (Excel)
-* **Libraries and Tools:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Keras, Jupyter Notebook, Git
+* **Libraries and Tools:** Scikit-learn, Keras, Jupyter Notebook, Git
+* **Domain Specific:** Stochastic Modelling, Statistical Modelling (Parametric and Non-Parametric), Derivatives and Vanilla instrument Pricing, Etc.  
 
 **Projects:**
-* **Digit Recognizer:** Developed a machine learning model using a Sequential Neural Network to accurately recognize handwritten digits from the MNIST dataset.
-* **Network Activity Anomaly Detection:** Built a predictive model to identify abnormal network traffic patterns, potentially indicating security threats or network failures. 
-* **Vaccine Prediction:** Created a model to predict whether an individual has taken two different vaccines by testing different models and conducting hyper-parameter Tuning.
-
-**Repositories:**
-* https://github.com/Pranay-sol/Digit-Recogniser-KAGGLE
-* https://github.com/Pranay-sol/Vaccine_draft
-* https://github.com/Pranay-sol/Network-Activity-Anomaly-Detection
 
 **Contact:**
 * **Email:** sol.pranay03@gmail.com
