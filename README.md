@@ -5,9 +5,9 @@ Hi, I'm Pranay Solanki, a **Data and Actuarial Science enthusiast** currently pu
 **Skills:**
 * **Programming Languages:** R, Python, MySQL, SQL Server, VBA (Excel)
 * **Libraries and Tools:** Scikit-learn, Keras, Jupyter Notebook, Git
-* **Domain Specific:** Stochastic Modelling, Statistical Modelling (Parametric and Non-Parametric), Derivatives and Vanilla instrument Pricing, Etc.  
+* **Domain Specific:** Stochastic Modelling, Statistical Modelling (Parametric and Non-Parametric),Profit Testing, Derivatives and Vanilla instrument Pricing, Etc.  
 
 **Contact:**
 * **Email:** sol.pranay03@gmail.com
-* 
+  
 * **LinkedIn:** www.linkedin.com/in/pranaysolanki
